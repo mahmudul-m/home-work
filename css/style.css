@@ -1,0 +1,50 @@
+
+body{
+	margin:0;
+	padding: 0;
+}
+
+.head{
+	min-height: 120px;
+	background-color: #300D5F;
+}
+h1{
+	color:white;
+	margin:0;
+	padding: 40px;
+	text-align: center;
+}
+h2{
+	color:white;
+	margin:0;
+	padding: 40px;
+	text-align: center;
+}
+.second_section{
+	min-height: 700px; 
+}
+.second1{
+	width: 20%;
+	min-height: 700px;
+	float: left;
+	background-color: #DFDEDE;
+}
+.second2{
+	width: 80%;
+	min-height: 700px;
+	float: right;
+	background-color: white;
+
+}
+.fram1{
+	margin-top: 50px;
+	margin-left: 100px;
+}
+.fram2{
+	margin-top: 50px;
+	margin-left: 100px;
+}
+.footer{
+	min-height: 100px;
+	background-color: #B6B819;
+}
